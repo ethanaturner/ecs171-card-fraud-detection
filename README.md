@@ -1,6 +1,11 @@
 # ECS 171 — Group 10: Credit Card Fraud Detection
 
+- `data_management_v2.ipynb` contains data analysis, feature engineering, and feature selection. It turns raw data into `data-stage2.csv`, which is used by other notebooks.
+- For the Random Forest model, see `random_forest.ipynb`.
+- For the Neural Network model, see `hyperparameter_tuning_v2.ipynb` and `cross_val_v2.ipynb`.
+
 ## Working with this repo
+
 1. Use your machine's terminal to navigate to the parent directory where you want to place the folder containing this repository
 2. On the repo's main page, click the green `Code` dropdown, then copy the link under the `HTTPS` option
 3. On your terminal, type `git clone <URL_COPIED_FROM_GITHUB>`, where the entirety of `<URL_COPIED_FROM_GITHUB>` is replaced by the link from step 2
