@@ -18,8 +18,8 @@ Please install/update the following software before moving on:
 
 ### Initial Setup
 
-- Clone this repository
-- Run `npm install` in the cloned repo to install project dependencies and setup Git hooks
+- Clone this folder/repository
+- Run `npm install` in the cloned `demo` folder to install project dependencies and setup Git hooks
 
 ### Start a Local Dev Server
 
