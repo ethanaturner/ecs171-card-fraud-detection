@@ -23,4 +23,5 @@ Please install/update the following software before moving on:
 
 ### Start a Local Dev Server
 
-- Run `npm run dev` to start a [Vite](https://vitejs.dev/) dev server with Hot Reload support
+- Run `flask run` inside `flask-server` folder to start a local Flask backend
+- Run `npm run dev` to start a front-end dev server with Hot Reload support
