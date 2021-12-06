@@ -1,0 +1,22 @@
+.header {
+  padding: 64px 0;
+  text-align: center;
+  background: linear-gradient(120deg, #6b21f3, #a02eec);
+  color: white;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 32px auto;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 384px;
+  padding: 0 16px 16px;
+  margin: 32px;
+}
